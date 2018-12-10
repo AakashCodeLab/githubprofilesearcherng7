@@ -14,7 +14,10 @@ export class AppComponent {
     this.swUpdate.available.subscribe(evt => {
 this.swUpdate.checkForUpdate().then(() => {
 
-        const snack = this.snackbar.open('Update Available', 'Reload');
+        const snack = this.snackbar.open('Update Available', 'Reload',{
+          duration: 7000,
+          panelClass: ['blue-snackbar']
+        });
         snack
           .onAction()
           .subscribe(() => {
