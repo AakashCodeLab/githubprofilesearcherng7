@@ -6,7 +6,7 @@
       "installMode": "prefetch",
       "resources": {
         "files": [
-          "/girl.svg",
+          "/girl.png",
           "/index.html",
           "/*.css",
           "/*.js"
