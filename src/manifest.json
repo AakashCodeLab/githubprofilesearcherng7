@@ -1,6 +1,6 @@
 {
-  "name": "my-app",
-  "short_name": "my-app",
+  "name": "GithubProfileSearch",
+  "short_name": "GithubProfileSearch",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
