@@ -22,11 +22,13 @@ import {
   MatSortModule,
   MatSnackBarModule, MatSnackBar
 } from '@angular/material';
+import { OfflineComponent } from './offline/offline.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    ProfileComponent
+    ProfileComponent,
+    OfflineComponent
   ],
   imports: [
     BrowserModule,
