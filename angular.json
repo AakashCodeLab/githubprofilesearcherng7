@@ -19,7 +19,7 @@
             "polyfills": "src/polyfills.ts",
             "tsConfig": "src/tsconfig.app.json",
             "assets": [
-              "src/girl.png",
+              "src/githubicon.png",
               "src/assets",
               "src/manifest.json"
             ],
@@ -87,7 +87,7 @@
             ],
             "scripts": [],
             "assets": [
-              "src/girl.png",
+              "src/githubicon.png",
               "src/assets",
               "src/manifest.json"
             ]

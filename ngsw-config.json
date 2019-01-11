@@ -6,7 +6,7 @@
       "installMode": "prefetch",
       "resources": {
         "files": [
-          "/girl.png",
+          "/githubicon.png",
           "/index.html",
           "/assets/**",
           "/*.css",
