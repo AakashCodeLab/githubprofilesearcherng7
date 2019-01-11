@@ -8,6 +8,7 @@
         "files": [
           "/girl.png",
           "/index.html",
+          "/assets/**",
           "/*.css",
           "/*.js"
 
