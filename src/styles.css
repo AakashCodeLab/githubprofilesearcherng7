@@ -1,6 +1,22 @@
 /* You can add global styles to this file, and also import other style files */
 
 html, body { height: 100%; }
+:root {
+  --ship-size: 10vmin;
+  
+  --sky-color: #1C1740;
+  --ship-color: #F9E2FE;
+  --ship-cap-color: crimson;
+  --ship-wing-color: #4C3198;
+  --ship-window-trim-color: #4C3198;
+  --ship-booster-color: #C38382;
+  --star-color: white;
+  
+  --stars-sm-speed: 5s;
+  --stars-md-speed: 2s;
+  --stars-lg-speed: 1s;
+}
+
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
 .mat-snack-bar-container {
   color: white;
